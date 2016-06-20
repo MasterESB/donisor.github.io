@@ -1,0 +1,6 @@
+{
+  "name": "Hongbo.GitHub.io",
+  "tagline": "Scala学习笔记",
+  "body": "# 测试一下这个页面是不是OK\r\n\r\n```scala\r\n\r\nval a = Map[String, String]\r\n\r\n```",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
